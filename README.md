@@ -1,8 +1,7 @@
 ## Plugins for Xamarin and Windows Projects
 
-[![Join the chat at https://gitter.im/jamesmontemagno/Xamarin.Plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jamesmontemagno/Xamarin.Plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 See a full list of community built plugins at: https://github.com/xamarin/plugins
+
 
 ## Follow Me
 * Twitter: [@JamesMontemagno](http://twitter.com/jamesmontemagno)
@@ -21,30 +20,23 @@ My Plugins for Xamarin are completely open source and I encourage and accept pul
 3. Fix a Bug or Add Feature: Send a Pull Request
 4. Create your Own Plugin : [Learn How](https://github.com/xamarin/plugins)
 
-## Sample App
-Download the sample app today:
-* Google Play: https://play.google.com/store/apps/details?id=com.refractored.testappforms
-* iOS: Coming Soon
-* Windows: Coming Soon
-* A sample is located in the TestProject folder
-
 # My Current Plugins for Xamarin
 Each plugin has a README with more information on what they contain. These are plugins I have created and maintain:
-* **[Battery Status](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Battery)**: Get battery level, how it is getting charge, and events.
-* **[Connectivity](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Connectivity)**: See if device is connected to the internet and through what connection type.
+* **[Battery Status](https://github.com/jamesmontemagno/BatteryPlugin)**: Get battery level, how it is getting charge, and events.
+* **[Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin)**: See if device is connected to the internet and through what connection type.
 * **[Contacts](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Contacts)**: Currently in Alpha to gather and query contacts
-* **[Device Information](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/DeviceInfo)**: Base information about each device such as OS and version.
-* **[Extended Maps](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ExternalMaps)**: Launch navigation directions in default map app on each OS
-* **[Geolocator](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Geolocator)**: Easy way of querying GPS location
-* **[Media](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Media)**: Take or pick photos/videos
-* **[Permissions](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions)**: Check and request runtime permissions.
-* **[Settings](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Settings)**: Fully cross platform settings for your application.
+* **[Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin)**: Base information about each device such as OS and version.
+* **[Extended Maps](https://github.com/jamesmontemagno/LaunchMapsPlugin)**: Launch navigation directions in default map app on each OS
+* **[Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin)**: Easy way of querying GPS location
+* **[Media](https://github.com/jamesmontemagno/MediaPlugin)**: Take or pick photos/videos
+* **[Permissions](https://github.com/jamesmontemagno/PermissionsPlugin)**: Check and request runtime permissions.
+* **[Settings](https://github.com/jamesmontemagno/SettingsPlugin)**: Fully cross platform settings for your application.
 * **[Share](https://github.com/jguertl/SharePlugin)**: Easily share text or open a browser
-* **[Text To Speech](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/TextToSpeech)**: Turn your text into a vocal symphony on mobile devices.
-* **[Vibrate](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Vibrate)**: Make that device rumble!
+* **[Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin)**: Turn your text into a vocal symphony on mobile devices.
+* **[Vibrate](https://github.com/jamesmontemagno/VibratePlugin)**: Make that device rumble!
 
 Controls:
-* **[Circle Image](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle)** for Xamarin.Forms
+* **[Circle Image](https://github.com/jamesmontemagno/ImageCirclePlugin)** Control for Xamarin.Forms
 
 
 # Awesome Plugins I Contribute To:
@@ -102,9 +94,6 @@ PCL:
 
 * Ensure namespaces are the same
 * Ensure that Assembly Names are the same. You will see all of mine are called Refractored.Xam.Messages.dll in all projects!
-
-#### Contributors
-* [jamesmontemagno](https://github.com/jamesmontemagno)
 
 Thanks!
 
